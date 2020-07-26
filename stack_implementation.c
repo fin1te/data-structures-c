@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include<conio.h>
 #define size 5
 //const int size = 5; //why const does not work
 int top=-1,val;
